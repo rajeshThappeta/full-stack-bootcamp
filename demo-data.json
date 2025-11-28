@@ -1,0 +1,22 @@
+[
+  {
+    "empName": "ravi",
+    "age": 21,
+    "skills": ["javascript", "nodejs", "java"],
+    "address": { "city": "hyderabad", "pincode": 500085 },
+    "experiences": [
+      { "companyName": "wipro", "yrsOfExp": 2, "salary": 50000 },
+      { "companyName": "cognizant", "yrsOfExp": 3, "salary": 80000 }
+    ]
+  },
+  {
+    "empName": "bhanu",
+    "age": 25,
+    "skills": ["python", "react", "nodejs"],
+    "address": { "city": "bangalore", "pincode": 700098 },
+    "experiences": [
+      { "companyName": "tcs", "yrsOfExp": 2, "salary": 60000 },
+      { "companyName": "capgemini", "yrsOfExp": 2, "salary": 70000 }
+    ]
+  }
+]
