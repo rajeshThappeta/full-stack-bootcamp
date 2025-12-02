@@ -1,0 +1,72 @@
+[
+  {
+    rollno: 101,
+    name: "Aarav Sharma",
+    marks: [
+      { subjectName: "Maths", marks: 85 },
+      { subjectName: "Science", marks: 78 },
+      { subjectName: "English", marks: 92 }
+    ],
+    address: {
+      city: "Hyderabad",
+      street: "Madhapur Road",
+      pincode: 500081
+    }
+  },
+  {
+    rollno: 102,
+    name: "Priya Verma",
+    marks: [
+      { subjectName: "Maths", marks: 88 },
+      { subjectName: "Science", marks: 91 },
+      { subjectName: "English", marks: 76 }
+    ],
+    address: {
+      city: "Bengaluru",
+      street: "Whitefield Main St",
+      pincode: 560066
+    }
+  },
+  {
+    rollno: 103,
+    name: "Rohit Kumar",
+    marks: [
+      { subjectName: "Maths", marks: 72 },
+      { subjectName: "Science", marks: 84 },
+      { subjectName: "English", marks: 69 }
+    ],
+    address: {
+      city: "Chennai",
+      street: "T Nagar 5th Cross",
+      pincode: 600017
+    }
+  },
+  {
+    rollno: 104,
+    name: "Sneha Reddy",
+    marks: [
+      { subjectName: "Maths", marks: 95 },
+      { subjectName: "Science", marks: 89 },
+      { subjectName: "English", marks: 94 }
+    ],
+    address: {
+      city: "Pune",
+      street: "Viman Nagar Lane",
+      pincode: 411014
+    }
+  },
+  {
+    rollno: 105,
+    name: "Vikram Singh",
+    marks: [
+      { subjectName: "Maths", marks: 68 },
+      { subjectName: "Science", marks: 74 },
+      { subjectName: "English", marks: 80 }
+    ],
+    address: {
+      city: "Mumbai",
+      street: "Andheri West Link Rd",
+      pincode: 400053
+    }
+  }
+]
